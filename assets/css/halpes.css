@@ -22,7 +22,7 @@
   --thm-reey-font: "reeyregular";
   --thm-gray: #707876;
   --thm-gray-rgb: 112, 120, 118;
-  --thm-primary: #15c8a0;
+  --thm-primary: #1ec059; /* #15c8a0 */
   --thm-primary-rgb: 21, 200, 160;
   --thm-black: #1f2230;
   --thm-black-rgb: 31, 34, 48;
@@ -114,6 +114,7 @@ h6 {
   display: inline-block;
   vertical-align: middle;
   -webkit-appearance: none;
+  appearance: none;
   border: none;
   outline: none !important;
   background-color: var(--thm-primary);

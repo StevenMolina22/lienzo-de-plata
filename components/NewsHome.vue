@@ -12,7 +12,7 @@
         <div class="col-xl-4 col-lg-4">
           <div class="news-one__button-box">
             <nuxt-link to="/news" class="news-one__btn thm-btn"
-              ><i class="fas fa-arrow-circle-right"></i>View More</nuxt-link
+              ><i class="fas fa-arrow-circle-right"></i>Ver mas</nuxt-link
             >
           </div>
         </div>

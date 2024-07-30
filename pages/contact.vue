@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header />
+    <HeaderThree />
     <PageHeader pageTitle="Contact Us" pageName="Contact" />
     <ContactPageForm />
     <GoogleMap />

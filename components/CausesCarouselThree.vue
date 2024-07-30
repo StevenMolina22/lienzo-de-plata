@@ -13,7 +13,7 @@
         </div>
         <div class="causes-three__top-btn-box">
           <a href="#" class="causes-three__top-btn thm-btn"
-            ><i class="fas fa-arrow-circle-right"></i>View More</a
+            ><i class="fas fa-arrow-circle-right"></i>Ver mas</a
           >
         </div>
       </div>

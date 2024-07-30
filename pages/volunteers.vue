@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header />
+    <HeaderThree />
     <PageHeader pageTitle="Volunteers" pageName="Volunteers" />
     <VolunteerGrid />
     <CallToActionOne />

@@ -20,7 +20,7 @@
           <div class="col-xl-8 col-lg-8">
             <div class="help-them__top-content">
               <h2 class="help-them__top-content-title">
-                Help them whenever they are in need
+                Ayudalos siempre que lo necesiten
               </h2>
             </div>
           </div>
@@ -31,7 +31,7 @@
                 class="help-them__top-video-btn video-popup"
                 ><i class="fa fa-play"></i
               ></a>
-              <p class="help-them__top-video-text">Watch the Video</p>
+              <p class="help-them__top-video-text">Mira el video</p>
             </div>
           </div>
         </div>

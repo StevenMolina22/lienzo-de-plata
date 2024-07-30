@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header />
+    <HeaderThree />
     <PageHeader pageTitle="Events Details" pageName="Events" />
     <EventSingle />
     <Footer />

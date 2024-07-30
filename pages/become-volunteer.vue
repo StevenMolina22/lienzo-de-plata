@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header />
+    <HeaderThree />
     <PageHeader pageTitle="Become Volunteer" pageName="Volunteers" />
     <BecomeVolunteerForm />
     <Footer />

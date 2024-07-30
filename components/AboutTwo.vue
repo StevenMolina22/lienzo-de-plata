@@ -6,9 +6,9 @@
         <div class="col-xl-6 col-lg-6">
           <div class="welcome-one__left">
             <div class="welcome-one__img-box">
-              <img src="~images/resources/welcome-one-img-1.jpg" alt="" />
+              <img src="~images/resources/welcome-one-img-1.jpeg" alt="" />
               <div class="welcome-one__img-box-2">
-                <img src="~images/resources/welcome-one-img-2.jpg" alt="" />
+                <img src="~images/resources/welcome-one-img-2.jpeg" alt="" />
               </div>
               <h2 class="welcome-one__bottom-text">Helping Today</h2>
               <div class="welcome-one__heart-icon">
@@ -23,9 +23,9 @@
         <div class="col-xl-6 col-lg-6">
           <div class="welcome-one__right">
             <div class="section-title text-left">
-              <span class="section-title__tagline">Welcome to Charity</span>
+              <span class="section-title__tagline">Bienvenido a la caridad</span>
               <h2 class="section-title__title">
-                Helping each other can make world better
+                Ayudarnos entre todos hace un mundo mejor
               </h2>
             </div>
             <p class="welcome-one__right-text">
@@ -35,13 +35,13 @@
             </p>
             <div class="welcome-one__our-mission-and-story">
               <div class="welcome-one__mission-and-story-single">
-                <h3><i class="fas fa-arrow-circle-right"></i>Our Mission</h3>
+                <h3><i class="fas fa-arrow-circle-right"></i>Nuestra mision</h3>
                 <p class="welcome-one__our-mission-and-story-text">
                   Lorem ipsum dolor sit amet not is consectetur notted.
                 </p>
               </div>
               <div class="welcome-one__mission-and-story-single">
-                <h3><i class="fas fa-arrow-circle-right"></i>Our Story</h3>
+                <h3><i class="fas fa-arrow-circle-right"></i>Nuestra historia</h3>
                 <p class="welcome-one__our-mission-and-story-text">
                   Lorem ipsum dolor sit amet not is consectetur notted.
                 </p>
@@ -49,7 +49,7 @@
             </div>
             <div class="welcome-one__progress">
               <div class="welcome-one__progress-single">
-                <h4 class="welcome-one__progress-title">Charity</h4>
+                <h4 class="welcome-one__progress-title">Caridad</h4>
                 <div class="bar">
                   <div
                     :class="`bar-inner count-bar ${startBar ? `counted` : ` `}`"
@@ -72,7 +72,7 @@
                 </div>
               </div>
               <div class="welcome-one__progress-single">
-                <h4 class="welcome-one__progress-title">Donations</h4>
+                <h4 class="welcome-one__progress-title">Donaciones</h4>
                 <div class="bar">
                   <div
                     :class="`bar-inner count-bar ${startBar ? `counted` : ` `}`"
@@ -96,7 +96,7 @@
               </div>
             </div>
             <nuxt-link to="/about" class="welcome-one__btn thm-btn">
-              <i class="fas fa-arrow-circle-right"></i>Learn More
+              <i class="fas fa-arrow-circle-right"></i>Conoce mas
             </nuxt-link>
           </div>
         </div>

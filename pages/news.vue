@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header />
+    <HeaderThree />
     <PageHeader pageTitle="News Page" pageName="News" />
     <NewsGrid />
     <Footer />

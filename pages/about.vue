@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header />
+    <HeaderThree />
     <PageHeader pageTitle="About Us" pageName="About" />
     <AboutOne />
     <TestimonialsCarouselOne className="about-page-testimonial" />

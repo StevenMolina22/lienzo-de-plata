@@ -2,8 +2,8 @@
   <section class="causes-one">
     <div class="container">
       <SectionTitle
-        subTitle="Latest Causes"
-        title="Find the popular cause <br> and donate them"
+        subTitle="Cuasas populares"
+        title="Encuentra una causa <br> que te apasione"
       />
       <div class="row">
         <div class="col-xl-12">

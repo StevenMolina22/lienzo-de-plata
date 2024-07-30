@@ -3,17 +3,17 @@
   <section class="helping-one">
     <div class="container">
       <div class="section-title text-center">
-        <span class="section-title__tagline">Latest Causes</span>
+        <span class="section-title__tagline">Causas actuales</span>
         <h2 class="section-title__title">
-          Find the popular cause <br />
-          and donate them
+          Encuentra una cause <br />
+          y apoya a la comunidad
         </h2>
       </div>
       <div class="row">
         <div class="col-xl-6 col-lg-6">
           <div class="helping-one__left">
             <h3 class="helping-one__title">
-              We’re Helping Today. Helping Tommorow
+              Estamos aqui para ayudar
             </h3>
             <p class="helping-one__text">
               There are many variations of passages of available but the

@@ -19,8 +19,8 @@
         <div class="col-xl-12">
           <div class="join-one__inner">
             <h2 class="join-one__title">
-              Join the community to give <br />
-              education for children
+              Entra a la comunidad del apoyo <br />
+              a la salud de ancianos
             </h2>
             <nuxt-link to="/become-volunteer" class="join-one__btn thm-btn">
               <i class="fas fa-arrow-circle-right"></i>

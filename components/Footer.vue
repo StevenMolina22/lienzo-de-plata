@@ -11,13 +11,13 @@
           <div class="row">
             <div class="col-xl-3 col-lg-6 col-md-6">
               <div class="footer-widget__column footer-widget__about">
-                <h3 class="footer-widget__title">About</h3>
+                <h3 class="footer-widget__title">Acerca de</h3>
                 <p class="footer-widget__text">
                   Lorem ipsum dolor sit ame consect etur pisicing elit sed do
                   eiusmod tempor incididunt ut labore.
                 </p>
                 <a href="#" class="footer-widget__about-btn"
-                  ><i class="fa fa-heart"></i>Donate
+                  ><i class="fa fa-heart"></i>Donar
                 </a>
               </div>
             </div>
@@ -25,20 +25,20 @@
               <div
                 class="footer-widget__column footer-widget__explore clearfix"
               >
-                <h3 class="footer-widget__title">Explore</h3>
+                <h3 class="footer-widget__title">Explora</h3>
                 <ul class="footer-widget__explore-list list-unstyled">
-                  <li><a href="#">Donate</a></li>
-                  <li><a href="#">Campaigns</a></li>
-                  <li><a href="#">Fundraise</a></li>
-                  <li><a href="#">Volunteers</a></li>
+                  <li><a href="#">Donar</a></li>
+                  <li><a href="#">Campañas</a></li>
+                  <li><a href="#">Recaudaciones</a></li>
+                  <li><a href="#">Voluntarios</a></li>
                   <li><a href="#">Sponsors</a></li>
                 </ul>
                 <ul
                   class="footer-widget__explore-list footer-widget__explore-list-two list-unstyled"
                 >
-                  <li><a href="#">Fundraising</a></li>
-                  <li><a href="#">Contact</a></li>
-                  <li><a href="#">Help</a></li>
+                  <li><a href="#">Recaudar</a></li>
+                  <li><a href="#">Contacto</a></li>
+                  <li><a href="#">Ayuda</a></li>
                   <li><a href="#">Faqs</a></li>
                 </ul>
               </div>
@@ -64,9 +64,9 @@
                     </div>
                     <div class="text">
                       <p>
-                        <span>Send Email</span>
+                        <span>Enviar email</span>
                         <a href="mailto:needhelp@company.com"
-                          >needhelp@company.com</a
+                          >lienzodeplatap@company.com</a
                         >
                       </p>
                     </div>
@@ -84,20 +84,11 @@
             </div>
             <div class="col-xl-3 col-lg-6 col-md-6">
               <div class="footer-widget__column footer-widget__newsletter">
-                <h3 class="footer-widget__title">Newsletter</h3>
+                <h3 class="footer-widget__title">Noticias</h3>
                 <p class="footer-widget__newsletter-text">
                   Lorem ipsum dolor sit ame consect etur pisicing elit sed do.
                 </p>
-                <form class="footer-widget__newsletter-form">
-                  <input
-                    type="email"
-                    placeholder="Email address"
-                    name="email"
-                  />
-                  <button type="submit" class="footer-widget__newsletter-btn">
-                    <i class="fas fa-arrow-circle-right"></i>Send
-                  </button>
-                </form>
+
               </div>
             </div>
           </div>
@@ -123,7 +114,7 @@
                   </div>
                 </div>
                 <div class="site-footer__bottom-copy-right">
-                  <p>© Copyright 2021 by <a href="#">BracketWeb</a></p>
+                  <p>© Copyright 2021 by <a href="#">Lienzo Esperanza</a></p>
                 </div>
               </div>
             </div>

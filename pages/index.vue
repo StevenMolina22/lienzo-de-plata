@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header />
+    <HeaderThree />
     <MainSliderOne />
     <AboutTwo />
     <CausesCarousel />
@@ -8,10 +8,10 @@
     <ThreeBoxes />
     <ContactHome />
     <GalleryCarousel />
-    <TestimonialsCarouselOne className="" />
+    <!-- <TestimonialsCarouselOne className="" /> -->
     <VideoOne />
     <NewsHome />
-    <SponsorsOne />
+    <!-- <SponsorsOne /> -->
     <Footer />
     <SearchPopup />
     <MobileDrawer />

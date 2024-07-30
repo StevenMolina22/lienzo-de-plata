@@ -2,7 +2,7 @@ import { resolve } from "path";
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "Halpes || Vue Nuxt Template For Donation Services",
+    title: "Lienzo Esperanza || Fundacion",
     htmlAttrs: {
       lang: "en",
     },

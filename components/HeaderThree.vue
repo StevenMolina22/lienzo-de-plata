@@ -65,11 +65,11 @@
                 <a href="#"><i class="fab fa-dribbble"></i></a>
                 <a href="#"><i class="fab fa-instagram"></i></a>
               </div>
-              <a
+              <!-- <a
                 href="#"
                 class="main-menu__search search-toggler icon-magnifying-glass"
                 @click="searchPopupStatusChange"
-              ></a>
+              ></a> -->
               <a href="#" class="main-menu__cart icon-shopping-cart"></a>
             </div>
           </div>

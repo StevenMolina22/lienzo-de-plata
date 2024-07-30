@@ -67,6 +67,62 @@
       "url": "/contact"
     }
   },
+  "news": [
+    {
+      "title": "La donación es esperanza para los viejitos pobres",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Ene, 2021",
+      "thumbnail": "/blog/news-page-img-1.jpg",
+      "excerpt": "Hay muchas variaciones de pero la mayoría simplemente tiene texto libre disponible no sufrido.",
+      "url": "/news-details"
+    },
+    {
+      "title": "¿Cómo afecta la desnutrición a los niños?",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Ene, 2021",
+      "thumbnail": "/blog/news-page-img-2.jpg",
+      "excerpt": "Hay muchas variaciones de pero la mayoría simplemente tiene texto libre disponible no sufrido.",
+      "url": "/news-details"
+    },
+    {
+      "title": "Capitaliza en lo fácil de identificar, es lo importante",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Ene, 2021",
+      "thumbnail": "/blog/news-page-img-3.jpg",
+      "excerpt": "Hay muchas variaciones de pero la mayoría simplemente tiene texto libre disponible no sufrido.",
+      "url": "/news-details"
+    },
+    {
+      "title": "Supera la brecha digital y aprende todo lo necesario",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Ene, 2021",
+      "thumbnail": "/blog/news-page-img-1.jpg",
+      "excerpt": "Hay muchas variaciones de pero la mayoría simplemente tiene texto libre disponible no sufrido.",
+      "url": "/news-details"
+    },
+    {
+      "title": "Inmersión en nanotecnología a lo largo de",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Ene, 2021",
+      "thumbnail": "/blog/news-page-img-2.jpg",
+      "excerpt": "Hay muchas variaciones de pero la mayoría simplemente tiene texto libre disponible no sufrido.",
+      "url": "/news-details"
+    },
+    {
+      "title": "Generado por el usuario en tener múltiples tiempos",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Ene, 2021",
+      "thumbnail": "/blog/news-page-img-3.jpg",
+      "excerpt": "Hay muchas variaciones de pero la mayoría simplemente tiene texto libre disponible no sufrido.",
+      "url": "/news-details"
+    }
+  ],
 
   "causes": [
     {

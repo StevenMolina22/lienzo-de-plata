@@ -1,6 +1,6 @@
 <template>
   <div>
-    <HeaderThee />
+    <HeaderThree />
     <PageHeader pageTitle="Gallery" pageName="Gallery" />
     <GalleryGrid />
     <Footer />

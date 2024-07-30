@@ -3,11 +3,11 @@
     <HeaderThree />
     <PageHeader pageTitle="About Us" pageName="About" />
     <AboutOne />
-    <TestimonialsCarouselOne className="about-page-testimonial" />
+    <!-- <TestimonialsCarouselOne className="about-page-testimonial" /> -->
     <CallToActionTwo className="join-one__about" />
     <FunfactOne />
     <VolunteerAbout />
-    <SponsorsOne />
+    <!-- <SponsorsOne /> -->
     <Footer />
     <SearchPopup />
     <MobileDrawer />

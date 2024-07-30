@@ -4,17 +4,16 @@
     <div class="causes-one__img">
       <div class="causes-one__img-box">
         <img :src="require(`~/assets/images${thumbnail}`)" :alt="title" />
-        <nuxt-link :to="url">
+        <!-- <nuxt-link :to="url">
           <i class="fa fa-plus"></i>
-        </nuxt-link>
+        </nuxt-link> -->
       </div>
       <div class="causes-one__category">
         <span>{{ category }}</span>
       </div>
     </div>
     <div class="causes-one__content">
-      <h3 class="causes-one__title">
-        <nuxt-link :to="url" v-html="title"></nuxt-link>
+      <h3 v-html="title" class="causes-one__title">
       </h3>
       <p class="causes-one__text" v-html="excerpt"></p>
     </div>

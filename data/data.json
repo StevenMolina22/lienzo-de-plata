@@ -30,21 +30,21 @@
     {
       "image": "/backgrounds/main-slider-1-1.jpeg",
       "subtitle": "Ayudando ahora",
-      "title": "Ayuda a los viejitos <br> en necesidad",
+      "title": "Ayuda a las personas mayores <br> en necesidad",
       "buttonLabel": "Conoce más",
       "buttonUrl": "/about"
     },
     {
       "image": "/backgrounds/main-slider-1-1.jpeg",
       "subtitle": "Ayudando ahora",
-      "title": "Ayuda a los viejitos <br> en necesidad",
+      "title": "Ayuda a las personas mayores <br> en necesidad",
       "buttonLabel": "Conoce más",
       "buttonUrl": "/about"
     },
     {
       "image": "/backgrounds/main-slider-1-1.jpeg",
       "subtitle": "Ayudando ahora",
-      "title": "Ayuda a los viejitos <br> en necesidad",
+      "title": "Ayuda a las personas mayores <br> en necesidad",
       "buttonLabel": "Conoce más",
       "buttonUrl": "/about"
     }
@@ -69,7 +69,7 @@
   },
   "news": [
     {
-      "title": "La donación es esperanza para los viejitos pobres",
+      "title": "La donación es esperanza para las personas de tercera edad",
       "author": "Admin",
       "commentCount": "2",
       "date": "20 Ene, 2021",
@@ -78,7 +78,7 @@
       "url": "/news-details"
     },
     {
-      "title": "¿Cómo afecta la desnutrición a los niños?",
+      "title": "¿Cómo afecta la desnutrición a las personas",
       "author": "Admin",
       "commentCount": "2",
       "date": "20 Ene, 2021",
@@ -105,7 +105,7 @@
       "url": "/news-details"
     },
     {
-      "title": "Inmersión en nanotecnología a lo largo de",
+      "title": "Inmersión en la tecnologia, nunca es tarde",
       "author": "Admin",
       "commentCount": "2",
       "date": "20 Ene, 2021",
@@ -114,7 +114,7 @@
       "url": "/news-details"
     },
     {
-      "title": "Generado por el usuario en tener múltiples tiempos",
+      "title": "Todos merecemos oportunidades para salir adelante",
       "author": "Admin",
       "commentCount": "2",
       "date": "20 Ene, 2021",
@@ -138,7 +138,7 @@
     },
     {
       "thumbnail": "/resources/causes-page-img-2.jpg",
-      "title": "Ayuda a viejitos con cancer",
+      "title": "Ayuda a personas de la tercera edad con cancer",
       "category": "Médico",
       "excerpt": "No hay muchas de las pasajes de lorem ipsum disponibles no es alteración donación en forma simplemente libre.",
       "amount": {
@@ -182,7 +182,7 @@
     },
     {
       "thumbnail": "/resources/causes-page-img-6.jpg",
-      "title": "Consejería para la tercera edad",
+      "title": "Consejería para personas de tercera edad",
       "category": "Médico",
       "excerpt": "No hay muchas de las pasajes de lorem ipsum disponibles no es alteración donación en forma simplemente libre.",
       "amount": {
@@ -341,47 +341,47 @@
   "gallery": [
     {
       "thumbnail": "/gallery/gallery-page-img-2.jpg",
-      "title": "Educación Infantil",
+      "title": "Educacion a las personas",
       "category": "Caridad"
     },
     {
       "thumbnail": "/gallery/gallery-page-img-1.jpg",
-      "title": "Educación Infantil",
+      "title": "Salud a nuestros hermanos",
       "category": "Caridad"
     },
     {
       "thumbnail": "/gallery/gallery-page-img-2.jpg",
-      "title": "Educación Infantil",
+      "title": "Caridad al que lo necesita",
       "category": "Caridad"
     },
     {
       "thumbnail": "/gallery/gallery-page-img-1.jpg",
-      "title": "Educación Infantil",
+      "title": "Oportunidades",
       "category": "Caridad"
     },
     {
       "thumbnail": "/gallery/gallery-page-img-2.jpg",
-      "title": "Educación Infantil",
+      "title": "Eduacion a las personas",
       "category": "Caridad"
     },
     {
       "thumbnail": "/gallery/gallery-page-img-1.jpg",
-      "title": "Educación Infantil",
+      "title": "Trato medico",
       "category": "Caridad"
     },
     {
       "thumbnail": "/gallery/gallery-page-img-2.jpg",
-      "title": "Educación Infantil",
+      "title": "Ayuda a las personas",
       "category": "Caridad"
     },
     {
       "thumbnail": "/gallery/gallery-page-img-1.jpg",
-      "title": "Educación Infantil",
+      "title": "Educacion tecnologica",
       "category": "Caridad"
     },
     {
       "thumbnail": "/gallery/gallery-page-img-2.jpg",
-      "title": "Educación Infantil",
+      "title": "Salud y caridad",
       "category": "Caridad"
     }
   ],
@@ -471,7 +471,7 @@
     },
     "posts": [
       {
-        "title": "La donación es esperanza para los viejitos pobres",
+        "title": "La donación es esperanza para las personas de tercera edad",
         "url": "/news-details",
         "date": "20 Ene, 2021",
         "commentCount": 2,

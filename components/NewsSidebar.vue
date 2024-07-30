@@ -1,13 +1,13 @@
 <template>
   <div class="sidebar">
-    <div class="sidebar__single sidebar__search">
+    <!-- <div class="sidebar__single sidebar__search">
       <form action="#" class="sidebar__search-form">
-        <input type="search" placeholder="Search" />
+        <input type="search" placeholder="Buscar" />
         <button type="submit"><i class="icon-magnifying-glass"></i></button>
       </form>
-    </div>
+    </div> -->
     <div class="sidebar__single sidebar__post">
-      <h3 class="sidebar__title">Recent Posts</h3>
+      <h3 class="sidebar__title">Posts recientes</h3>
       <ul class="sidebar__post-list list-unstyled">
         <li>
           <div class="sidebar__post-image">
@@ -16,10 +16,10 @@
           <div class="sidebar__post-content">
             <h3>
               <a href="#" class="sidebar__post-content_meta"
-                ><i class="far fa-user-circle"></i>by Admin</a
+                ><i class="far fa-user-circle"></i>Administrador</a
               >
               <nuxt-link to="/news-details"
-                >Help Children Rise out of Poverty</nuxt-link
+                >Ayudalos a tener servicio medico</nuxt-link
               >
             </h3>
           </div>
@@ -31,10 +31,10 @@
           <div class="sidebar__post-content">
             <h3>
               <a href="#" class="sidebar__post-content_meta"
-                ><i class="far fa-user-circle"></i>by Admin</a
+                ><i class="far fa-user-circle"></i>Administrador</a
               >
               <nuxt-link to="/news-details"
-                >Help Children Rise out of Poverty</nuxt-link
+                >Ayuda a las personas mayores</nuxt-link
               >
             </h3>
           </div>
@@ -46,10 +46,10 @@
           <div class="sidebar__post-content">
             <h3>
               <a href="#" class="sidebar__post-content_meta"
-                ><i class="far fa-user-circle"></i>by Admin</a
+                ><i class="far fa-user-circle"></i>Administrador </a
               >
               <nuxt-link to="/news-details"
-                >Help Children Rise out of Poverty</nuxt-link
+                >Ayudalos a tener acceso a oportunidades</nuxt-link
               >
             </h3>
           </div>
@@ -60,39 +60,39 @@
       <h3 class="sidebar__title">Categories</h3>
       <ul class="sidebar__category-list list-unstyled">
         <li>
-          <a href="#"><i class="fas fa-arrow-circle-right"></i>Charity</a>
+          <a href="#"><i class="fas fa-arrow-circle-right"></i>Caridad</a>
         </li>
         <li>
-          <a href="#"><i class="fas fa-arrow-circle-right"></i>Fundrising</a>
+          <a href="#"><i class="fas fa-arrow-circle-right"></i>Recaudacion</a>
         </li>
         <li>
-          <a href="#"><i class="fas fa-arrow-circle-right"></i>Donations</a>
+          <a href="#"><i class="fas fa-arrow-circle-right"></i>Donaciones</a>
         </li>
         <li>
-          <a href="#"><i class="fas fa-arrow-circle-right"></i>Save Lifes</a>
+          <a href="#"><i class="fas fa-arrow-circle-right"></i>Salva vidas</a>
         </li>
         <li>
-          <a href="#"><i class="fas fa-arrow-circle-right"></i>Health</a>
+          <a href="#"><i class="fas fa-arrow-circle-right"></i>Salud</a>
         </li>
         <li>
-          <a href="#"><i class="fas fa-arrow-circle-right"></i>Education</a>
+          <a href="#"><i class="fas fa-arrow-circle-right"></i>Eduacion</a>
         </li>
         <li>
-          <a href="#"><i class="fas fa-arrow-circle-right"></i>Food</a>
+          <a href="#"><i class="fas fa-arrow-circle-right"></i>Comida</a>
         </li>
         <li>
-          <a href="#"><i class="fas fa-arrow-circle-right"></i>Water</a>
+          <a href="#"><i class="fas fa-arrow-circle-right"></i>Agua</a>
         </li>
       </ul>
     </div>
     <div class="sidebar__single sidebar__tags">
-      <h3 class="sidebar__title">Popular Tags</h3>
+      <h3 class="sidebar__title">Tags populares</h3>
       <div class="sidebar__tags-list">
-        <a href="#">Donation</a>
-        <a href="#">Charity</a>
-        <a href="#">Poor</a>
-        <a href="#">Education</a>
-        <a href="#">Fundraising</a>
+        <a href="#">Donacion</a>
+        <a href="#">Caridad</a>
+        <a href="#">Pobreza</a>
+        <a href="#">Eduacion</a>
+        <a href="#">Recaudacion</a>
       </div>
     </div>
   </div>

@@ -11,7 +11,7 @@
                 alt=""
               />
               <div class="about-page__trusted">
-                <h3>We’re trusted by <span>9,8750</span> donors</h3>
+                <h3>Nuestros donadores<span> confian </span>en nosotros</h3>
               </div>
             </div>
           </div>
@@ -19,20 +19,20 @@
         <div class="col-xl-6">
           <div class="about-page__right">
             <div class="section-title text-left">
-              <span class="section-title__tagline">Our Inroductions</span>
+              <span class="section-title__tagline">Nuestra introduccion</span>
               <h2 class="section-title__title">
-                We believe that we can save more lifes
+                Creemos que podemos salvar vidas
               </h2>
             </div>
             <p class="about-page__right-text">
-              We are trusted by our clients and have a reputation for the best
-              services in the field. Lorem ipsum is simply free text dolor sit
+              Nuestros donadores tienen una gran confianza en nosotros.
+              Lorem ipsum is simply free text dolor sit
               amett consectetur adipiscing elit. It is a long established fact
               that a reader will be distracted by the readable content of a
               page.
             </p>
             <h3 class="about-page__right-title">
-              Halpes is the largest global crowdfunding community in the world
+              Lienzo de plata para la caridad es la ayuda moderna
             </h3>
             <div class="about-five__progress-wrap">
               <div class="about-five__progress">
@@ -54,7 +54,7 @@
                   <span>90%</span>
                 </div>
                 <div class="about-five__progress-content">
-                  <h3>Successful causes</h3>
+                  <h3>Ayudas exitosas</h3>
                 </div>
               </div>
               <div class="about-five__progress">
@@ -77,7 +77,7 @@
                 </div>
                 <!-- /.about-five__progress-box -->
                 <div class="about-five__progress-content">
-                  <h3>Amazing donors</h3>
+                  <h3>Donadores increibles</h3>
                 </div>
               </div>
             </div>

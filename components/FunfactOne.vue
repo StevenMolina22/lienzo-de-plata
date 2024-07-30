@@ -12,7 +12,7 @@
             ></countTo>
           </h3>
           <span class="counter-one__letter">K</span>
-          <p class="counter-one__text">Total Donations</p>
+          <p class="counter-one__text">Donaciones totales</p>
         </li>
         <li class="counter-one__single">
           <h3 v-observe-visibility="onVisibilityCountChange">
@@ -22,7 +22,7 @@
               :duration="3000"
             ></countTo>
           </h3>
-          <p class="counter-one__text">Campaigns Closed</p>
+          <p class="counter-one__text">Campañas conseguidas</p>
         </li>
         <li class="counter-one__single">
           <h3 v-observe-visibility="onVisibilityCountChange">
@@ -33,7 +33,7 @@
             ></countTo>
           </h3>
           <span class="counter-one__letter">K</span>
-          <p class="counter-one__text">Happy People</p>
+          <p class="counter-one__text">Personas satisfechas</p>
         </li>
         <li class="counter-one__single">
           <h3 v-observe-visibility="onVisibilityCountChange">
@@ -44,7 +44,7 @@
             ></countTo>
           </h3>
           <span class="counter-one__letter">+</span>
-          <p class="counter-one__text">Our Volunteers</p>
+          <p class="counter-one__text">Nuestros voluntarios</p>
         </li>
       </ul>
     </div>

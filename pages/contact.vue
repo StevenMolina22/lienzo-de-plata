@@ -1,7 +1,7 @@
 <template>
   <div>
     <HeaderThree />
-    <PageHeader pageTitle="Contact Us" pageName="Contact" />
+    <PageHeader pageTitle="Contactanos" pageName="Contacto" />
     <ContactPageForm />
     <GoogleMap />
     <CallToActionOne />

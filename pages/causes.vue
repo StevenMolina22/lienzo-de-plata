@@ -1,7 +1,7 @@
 <template>
   <div>
     <HeaderThree />
-    <PageHeader pageTitle="Causes" pageName="Causes" />
+    <PageHeader pageTitle="Causas" pageName="Causas" />
     <CausesGrid />
     <Footer />
     <SearchPopup />

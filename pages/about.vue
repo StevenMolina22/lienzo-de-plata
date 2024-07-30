@@ -1,7 +1,7 @@
 <template>
   <div>
     <HeaderThree />
-    <PageHeader pageTitle="About Us" pageName="About" />
+    <PageHeader pageTitle="Acerca de" pageName="Acerca" />
     <AboutOne />
     <!-- <TestimonialsCarouselOne className="about-page-testimonial" /> -->
     <CallToActionTwo className="join-one__about" />

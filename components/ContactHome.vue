@@ -27,7 +27,7 @@
                   <i class="fas fa-arrow-circle-right"></i>
                 </div>
                 <div class="helping-one__left-text">
-                  <p>Making this the first true generator on the Internet</p>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                 </div>
               </li>
               <li>
@@ -35,7 +35,7 @@
                   <i class="fas fa-arrow-circle-right"></i>
                 </div>
                 <div class="helping-one__left-text">
-                  <p>Lorem Ipsum is not simply random text</p>
+                  <p>Lorem ipsum dolor sit amet consectetur.</p>
                 </div>
               </li>
               <li>
@@ -43,7 +43,7 @@
                   <i class="fas fa-arrow-circle-right"></i>
                 </div>
                 <div class="helping-one__left-text">
-                  <p>If you are going to use a passage</p>
+                  <p>Birum salem ipsum dolor sit amet antreponeer</p>
                 </div>
               </li>
             </ul>
@@ -60,39 +60,31 @@
             <form action="" class="helping-one__right-form">
               <div class="row">
                 <div class="col-lg-12">
-                  <div class="helping-one__right-input-box">
-                    <input
-                      type="text"
-                      name="amount"
-                      placeholder="Enter Donation Amount"
-                    />
-                    <div class="helping-one__right-dolar-icon">
-                      <span>$</span>
-                    </div>
-                  </div>
+                  <div class="container-fluid py-4">Numero de cuenta: <strong>183-123-123</strong></div>
                 </div>
+
                 <div class="col-lg-6">
-                  <input type="text" name="name" placeholder="Your Name" />
+                  <input type="text" name="name" placeholder="Tu nombre" />
                 </div>
                 <div class="col-lg-6">
                   <input
                     type="email"
                     name="email"
-                    placeholder="Email Address"
+                    placeholder="Direccion email"
                   />
                 </div>
                 <div class="col-lg-12">
-                  <input type="text" name="phone" placeholder="Phone Number" />
+                  <input type="text" name="phone" placeholder="Numero de telefono" />
                 </div>
                 <div class="col-lg-12">
                   <textarea
                     name="message"
-                    placeholder="Write Message"
+                    placeholder="Escribir mensaje"
                   ></textarea>
                 </div>
                 <div class="col-lg-12">
                   <button type="submit" class="thm-btn helping-one__right-btn">
-                    <i class="fas fa-arrow-circle-right"></i>Continue Now
+                    <i class="fas fa-arrow-circle-right"></i>Continuar
                   </button>
                 </div>
               </div>

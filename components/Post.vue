@@ -6,55 +6,35 @@
     <div class="news-details__content">
       <ul class="list-unstyled news-details__meta">
         <li>
-          <a href="#"><i class="far fa-user-circle"></i> by Admin </a>
+          <a href="#"><i class="far fa-user-circle"></i> Administrador </a>
         </li>
         <li><span>/</span></li>
         <li>
-          <a href="#"><i class="far fa-comments"></i> 2 Comments</a>
+          <a href="#"><i class="far fa-comments"></i> 2 Comentarios</a>
         </li>
       </ul>
       <h3 class="news-details__title">
-        Donation is Hope for Poor Childrens in Africa
+        La donacion es esperanza para las personas mayores
       </h3>
       <p class="news-details__text-one">
-        Tliq is notm hendr erit a augue insu image pellen tes que id erat quis
-        sollicitud. Lorem ipsum dolor sit amet, consectetur adipiscing ullam
-        blandit hendrerit faucibus suspendisse. There are many variations of
-        passages of Lorem Ipsum available, but the majority have suffered
-        alteration in some form, by injected humour, or randomised words which
-        don't look even slightly believable. If you are going to use a passage
-        of Lorem Ipsum, you need to be sure there isn't anything embarrassing
-        hidden in the middle of text.
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi perferendis officiis nemo a cupiditate
+        recusandae molestiae animi obcaecati illum vitae itaque alias neque laborum, ea nesciunt odit sequi doloremque
+        architecto earum incidunt eius! Temporibus ratione fuga ab laboriosam, nulla nesciunt, laudantium recusandae
+        minima eligendi officiis beatae. Accusantium cupiditate error aliquam.
       </p>
       <p class="news-details__text-two">
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged. It was popularised in the 1960s with the release
-        of Letraset sheets containing Lorem Ipsum passages, and more recently
-        with desktop publishing software like Aldus PageMaker including versions
-        of Lorem Ipsum ley of type and scrambled it to make a type specimen
-        book.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias reiciendis mollitia officia ipsa aspernatur ratione, nulla sed ut veritatis eveniet? Nesciunt, ipsam ab. Est aut similique molestiae dolor sunt consequuntur, repellendus enim ullam. Voluptatum quibusdam architecto provident natus iure et alias voluptas distinctio sunt perferendis, fugiat modi eligendi ab magnam soluta! Tempore mollitia eos fugit in unde voluptas iste optio commodi, neque nemo, nisi consectetur molestias nam, dolores doloribus laborum!
       </p>
       <p class="news-details__text-three">
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged. It was popularised in the 1960s with the release
-        of Letraset sheets containing Lorem Ipsum passages, and more recently
-        with desktop publishing software like Aldus PageMaker including version.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto vel accusamus ipsa sapiente nesciunt autem! Beatae autem odio, eaque, sit deserunt magni molestias eum iure debitis, harum quis nesciunt quod excepturi minima eveniet accusantium mollitia ipsam nam rerum. Tempora, velit neque ea sapiente iure vel in fugiat non consectetur ut perferendis ipsa laudantium reiciendis unde, aspernatur beatae corporis iste nihil voluptate voluptatem. Fugiat eos ad voluptates sint odio et consequatur.
       </p>
     </div>
     <div class="news-details__bottom">
       <p class="news-details__tags">
         <span>Tags:</span>
-        <a href="#">Donation</a>
-        <a href="#">Charity</a>
-        <a href="#">Poor</a>
+        <a href="#">Donacion</a>
+        <a href="#">Caridad</a>
+        <a href="#">Pobreza</a>
       </p>
       <div class="news-details__social-list">
         <a href="#"><i class="fab fa-twitter"></i></a>

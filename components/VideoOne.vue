@@ -27,7 +27,7 @@
           <div class="col-xl-4 col-lg-4">
             <div class="help-them__top-video-box">
               <a
-                href="https://www.youtube.com/watch?v=i9E_Blai8vk"
+                href="https://www.youtube.com/watch?v=h0LuQ43REjk"
                 class="help-them__top-video-btn video-popup"
                 ><i class="fa fa-play"></i
               ></a>

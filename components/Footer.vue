@@ -45,7 +45,7 @@
             </div>
             <div class="col-xl-3 col-lg-6 col-md-6">
               <div class="footer-widget__column footer-widget__contact">
-                <h3 class="footer-widget__title">Contact</h3>
+                <h3 class="footer-widget__title">Contacto</h3>
                 <ul class="list-unstyled footer-widget__contact-list">
                   <li>
                     <div class="icon">
@@ -65,8 +65,8 @@
                     <div class="text">
                       <p>
                         <span>Enviar email</span>
-                        <a href="mailto:needhelp@company.com"
-                          >lienzodeplatap@company.com</a
+                        <a href="mailto:lienzodeplata@company.com"
+                          >lienzodeplata@company.com</a
                         >
                       </p>
                     </div>

@@ -24,7 +24,7 @@
             </h2>
             <nuxt-link to="/become-volunteer" class="join-one__btn thm-btn">
               <i class="fas fa-arrow-circle-right"></i>
-              Learn More
+            Conoce más
             </nuxt-link>
           </div>
         </div>

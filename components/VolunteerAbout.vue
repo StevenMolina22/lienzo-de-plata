@@ -3,8 +3,8 @@
   <section class="team-one">
     <div class="container">
       <SectionTitle
-        title="Meet the best team behind <br> our success story"
-        subTitle="Professional Volunteers"
+        title="Conoce al equipo que ha hecho <br> posible esta historia"
+        subTitle="Equipo de donadores"
       />
       <div class="row">
         <div

@@ -1,7 +1,7 @@
 <template>
   <div>
     <HeaderThree />
-    <PageHeader pageTitle="News Details" pageName="News" />
+    <PageHeader pageTitle="Detalles de noticias" pageName="Noticias" />
     <NewsSingle />
     <Footer />
     <SearchPopup />

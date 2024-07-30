@@ -46,10 +46,10 @@
       </div>
       <div class="causes-one__goals">
         <p>
-          <span>${{ amount.raised }}</span> Raised
+          <span>${{ amount.raised }}</span> Conseguido
         </p>
         <p>
-          <span>${{ amount.goal }}</span> Goal
+          <span>${{ amount.goal }}</span> Objetivo
         </p>
       </div>
     </div>

@@ -9,7 +9,7 @@
     <div class="container">
       <h2>{{ pageTitle }}</h2>
       <ul class="thm-breadcrumb list-unstyled">
-        <li><nuxt-link to="/">Home</nuxt-link></li>
+        <li><nuxt-link to="/">Inicio</nuxt-link></li>
         <li class="color-thm-gray">/</li>
         <li>
           <span>{{ pageName }}</span>
@@ -32,3 +32,10 @@ export default {
   },
 };
 </script>
+
+<style>
+.page-header__bg {
+  background-position: center !important;
+  background-size: cover;
+}
+</style>

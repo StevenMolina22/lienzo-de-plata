@@ -85,7 +85,7 @@
               <div class="row">
                 <div class="col-xl-12">
                   <div class="become-volunteer-page__input">
-                    <input type="text" placeholder="Your name" name="name" />
+                    <input type="text" placeholder="Tu nombre" name="name" />
                   </div>
                 </div>
               </div>
@@ -94,7 +94,7 @@
                   <div class="become-volunteer-page__input">
                     <input
                       type="email"
-                      placeholder="Email Address"
+                      placeholder="Direccion email"
                       name="email"
                     />
                   </div>
@@ -103,7 +103,7 @@
                   <div class="become-volunteer-page__input">
                     <input
                       type="text"
-                      placeholder="Phone Number"
+                      placeholder="Numero telefono"
                       name="phone"
                     />
                   </div>
@@ -112,14 +112,14 @@
               <div class="row">
                 <div class="col-xl-12">
                   <div class="become-volunteer-page__input">
-                    <input type="text" placeholder="Address" name="address" />
+                    <input type="text" placeholder="Direccion" name="address" />
                   </div>
                 </div>
                 <div class="col-xl-12">
                   <div class="become-volunteer-page__input">
                     <input
                       type="text"
-                      placeholder="Date of Birth"
+                      placeholder="Fecha nacimiento"
                       name="Date of Birth"
                     />
                   </div>
@@ -128,7 +128,7 @@
                   <div class="become-volunteer-page__input">
                     <input
                       type="text"
-                      placeholder="Occupation"
+                      placeholder="Ocupacion"
                       name="Occupation"
                     />
                   </div>
@@ -137,14 +137,14 @@
                   <div class="become-volunteer-page__input">
                     <textarea
                       name="message"
-                      placeholder="Write message"
+                      placeholder="Escribe el mensaje"
                     ></textarea>
                   </div>
                   <button
                     type="submit"
                     class="thm-btn become-volunteer-page__btn"
                   >
-                    <i class="fas fa-arrow-circle-right"></i>Submit Comment
+                    <i class="fas fa-arrow-circle-right"></i>Subir comentario
                   </button>
                 </div>
               </div>

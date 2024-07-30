@@ -1,7 +1,7 @@
 <template>
   <div>
     <HeaderThree />
-    <PageHeader pageTitle="Volunteers" pageName="Volunteers" />
+    <PageHeader pageTitle="Voluntarios" pageName="Voluntarios" />
     <VolunteerGrid />
     <CallToActionOne />
     <Footer />

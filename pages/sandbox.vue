@@ -10,14 +10,41 @@ export default {
 };
 </script>
 <template>
-    <div>
+    <div class="sandbox">
         <HeaderThree />
-        <div>{{ message }}</div>
-        <div>{{ counter }}</div>
-        <button @click="counter++">increment</button>
-        <button @click="counter--">decrement</button>
-        <button @click="counter = 10">set to 10</button>
-        <button @click="counter = 0">reset</button>
-        <img :src="url" alt="" />
+        <main class="content">
+            <div>
+                <div>{{ message }}</div>
+                <div>{{ counter }}</div>
+                <div>
+                    <button @click="counter++">increment</button>
+                    <button @click="counter--">decrement</button>
+                    <button @click="counter = 10">set to 10</button>
+                    <button @click="counter = 0">reset</button>
+                </div>
+            </div>
+            <img :src="url" alt="" />
+            <div class="justify-content-center">
+                <ProductCardTwo />
+            </div>
+        </main>
     </div>
 </template>
+
+<style>
+.sandbox {
+    padding-bottom: 4rem;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8rem;
+}
+
+.justify-content-center {
+    display: flex;
+    justify-content: center;
+}
+</style>

@@ -10,7 +10,7 @@
               <div class="welcome-one__img-box-2">
                 <img src="~images/resources/welcome-one-img-2.jpeg" alt="" />
               </div>
-              <h2 class="welcome-one__bottom-text">Helping Today</h2>
+              <h2 class="welcome-one__bottom-text">Ayudando hoy</h2>
               <div class="welcome-one__heart-icon">
                 <img
                   src="~images/resources/welcome-one-heart-icon.png"

@@ -6,7 +6,7 @@
         <button type="submit"><i class="icon-magnifying-glass"></i></button>
       </form>
     </div> -->
-    <div class="sidebar__single sidebar__post">
+    <!-- <div class="sidebar__single sidebar__post">
       <h3 class="sidebar__title">Posts recientes</h3>
       <ul class="sidebar__post-list list-unstyled">
         <li>
@@ -55,7 +55,7 @@
           </div>
         </li>
       </ul>
-    </div>
+    </div> -->
     <div class="sidebar__single sidebar__category">
       <h3 class="sidebar__title">Categories</h3>
       <ul class="sidebar__category-list list-unstyled">

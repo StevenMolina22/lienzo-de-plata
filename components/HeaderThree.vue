@@ -70,7 +70,7 @@
                 class="main-menu__search search-toggler icon-magnifying-glass"
                 @click="searchPopupStatusChange"
               ></a> -->
-              <a href="#" class="main-menu__cart icon-shopping-cart"></a>
+              <a href="/store" class="main-menu__cart icon-shopping-cart"></a>
             </div>
           </div>
         </nav>
@@ -148,7 +148,7 @@
               class="main-menu__search search-toggler icon-magnifying-glass"
               @click="searchPopupStatusChange"
             ></a> -->
-            <a href="#" class="main-menu__cart icon-shopping-cart"></a>
+            <a href="/store" class="main-menu__cart icon-shopping-cart"></a>
           </div>
         </div>
       </div>

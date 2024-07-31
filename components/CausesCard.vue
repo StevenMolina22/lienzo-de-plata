@@ -13,7 +13,8 @@
       </div>
     </div>
     <div class="causes-one__content">
-      <h3 v-html="title" class="causes-one__title">
+      <h3  class="causes-one__title">
+        <a class="causes-one__title" v-html="title"></a>
       </h3>
       <p class="causes-one__text" v-html="excerpt"></p>
     </div>
